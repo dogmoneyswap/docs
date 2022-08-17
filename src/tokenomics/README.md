@@ -2,23 +2,17 @@
 
 ---
 
-- 100 new Mist is created per block for tokens that are staked in the farms on <https://app.mistswap.fi/farm>. The first two weeks of launch will have a 10x bonus.
+- 1 new DOGMONEY is created per block for tokens that are staked in the farms on <https://app.dogmoney.money/farm>. The first two weeks of launch will have a 10x bonus.
 
-- 10% of all newly created Mist is sent to Kasumi's dev wallet.
+- 10% of all newly created DOGMONEY is sent to dev wallet.
 
-- 0.05% of the exchange fees are awarded to holders of the xMIST token.
+- 0.05% of the exchange fees are awarded to holders of the xDOGMONEY token.
 
 
-#### What is the cap of the $MIST token?
+#### What is the cap of the $DOGMONEY token?
 
-There is no hard cap of MIST yet, but one may be put into place in the future.
+There is no hard cap of DOGMONEY
 
-#### Does the $MIST token have any burn?
+#### Does the $DOGMONEY token have any burn?
 
-No not at at this time - but one may be implemented in the future.
-
-#### How does $MIST enter into circulation?
-
-New Mist is created at 1000 Mist per block for tokens that are staked in the farms on <https://app.mistswap.fi/farm>
-
-This will be reduced to 100 Mist per block after approximately two weeks from launch.
+No.

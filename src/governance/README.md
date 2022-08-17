@@ -2,9 +2,9 @@
 
 ---
 
-## MistSwap Governance
+## DogMoney Governance
 
-MistSwap aims to be a community-led decentralized effort to bring the maximum utility to smartBCH and grow the ecosystem. To achieve this, investors in MistSwap have a say in upgrading and expanding the protocols and products we launch. Currently MistSwap is still relatively centralized in it's governance, but we are working towards gradually moving ownership over to a DAO.
+DogMoney aims to be a community-led decentralized effort to bring the maximum utility to DogeChain and grow the ecosystem. To achieve this, investors in DogeChain have a say in upgrading and expanding the protocols and products we launch. Currently DogeChain is still relatively centralized in it's governance, but we are working towards gradually moving ownership over to a DAO.
 
 ### Vote
 

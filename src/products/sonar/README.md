@@ -10,7 +10,7 @@ Sonar is a fork of Blockscout - we have optimized it for smartBCH, adding LNS su
 
 ## Contract Verification
 
-Sonar makes it easy to publish the source code of smart contracts and make it publicly available and verifiable. Verification is possible for both Solidity and Vyper based contracts. The constructor parameters for the smart contract can also be stored. Developers of projects on SmartBCH have an additional incentive to fully publish their source code - so that transaction decoding by Sonar can show other users what actions people are using on their dApp.
+Sonar makes it easy to publish the source code of smart contracts and make it publicly available and verifiable. Verification is possible for both Solidity and Vyper based contracts. The constructor parameters for the smart contract can also be stored. Developers of projects on DogeChain have an additional incentive to fully publish their source code - so that transaction decoding by Sonar can show other users what actions people are using on their dApp.
 
 ## LNS Integration
 

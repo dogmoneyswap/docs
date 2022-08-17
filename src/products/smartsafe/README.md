@@ -6,17 +6,17 @@
 
 ## What is Smart Safe?
 
-Smart Safe allows anyone to create a highly secure and easy to use multisig (multiple signature) wallet on smartBCH, with built in support for interacting with [LNS](https://app.bch.domains) and [MistSwap](https://app.mistswap.fi). Smart Safe also functions as a ERC-20 & ERC-721 wallet, with the ability to show token icons and price in USD of your assets, and display your NFTs.
+Smart Safe allows anyone to create a highly secure and easy to use multisig (multiple signature) wallet on DogeChain, with built in support for interacting with [LNS](https://app.bch.domains) and [DogMoney](https://app.dogmoney.money). Smart Safe also functions as a ERC-20 & ERC-721 wallet, with the ability to show token icons and price in USD of your assets, and display your NFTs.
 
-Smart Safe is a fork of [Gnosis Safe](https://gnosis-safe.io/), so it is easy for other SmartBCH applications to [add support to their dApps](https://docs.gnosis-safe.io/build-with-safe/sdks/safe-apps/get-started). We have not changed any of the contract code, you can verify that contracts are deployed to the same addresses as on other chains, so you can be assured that Smart Safe is well tested for large amounts of capital.
+Smart Safe is a fork of [Gnosis Safe](https://gnosis-safe.io/), so it is easy for other DogeChain applications to [add support to their dApps](https://docs.gnosis-safe.io/build-with-safe/sdks/safe-apps/get-started). We have not changed any of the contract code, you can verify that contracts are deployed to the same addresses as on other chains, so you can be assured that Smart Safe is well tested for large amounts of capital.
 
-## MistSwap App
+## DogMoney App
 
-Full support for MistSwap exists out of the box. You and your team or project can now swap, provide liquidity, and enter in to yield farms using the Smart Safe multisig wallet. This allows for much greater decentralization of projects, and eliminates the issue of one keyholder being a central source of failure.
+Full support for DogMoney exists out of the box. You and your team or project can now swap, provide liquidity, and enter in to yield farms using the Smart Safe multisig wallet. This allows for much greater decentralization of projects, and eliminates the issue of one keyholder being a central source of failure.
 
-### MistSwap Integration
+### DogMoney Integration
 
-Your liquidity, farms, and staked MIST are easily auditable and visible in the Assets tab.
+Your liquidity, farms, and staked DOGMONEY are easily auditable and visible in the Assets tab.
 
 ## LNS App
 
@@ -24,8 +24,8 @@ In addition, full support for LNS exists out of the box. Businesses, DAOs, and d
 
 
 ## Utility Apps
-We also provide additional built-in utility apps that seek to make smartBCH easier to use for projects.
+We also provide additional built-in utility apps that seek to make DogeChain easier to use for projects.
 
-* CSV airdrops of ERC-20 tokens, NFTs, and BCH.
+* CSV airdrops of ERC-20 tokens, NFTs, and wDOGE.
 * Batched Transactions
 * WalletConnect

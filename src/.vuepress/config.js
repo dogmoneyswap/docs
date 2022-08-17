@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'MistSwap Docs',
+  title: 'DogMoney Docs',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -66,7 +66,7 @@ module.exports = {
    */
   themeConfig: {
     logo: '/assets/img/logo.png',
-    repo: 'https://github.com/mistswapdex',
+    repo: 'https://github.com/dogmoneyswap',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -82,7 +82,7 @@ module.exports = {
       },
       {
         text: 'Exchange',
-        link: 'https://app.mistswap.fi'
+        link: 'https://app.dogmoney.money'
       },
     ],
     sidebar: [
@@ -90,102 +90,27 @@ module.exports = {
       ['/tokenomics/', 'Tokenomics'],
       ['/security/', 'Security'],
       {
-        title: 'Governance',
-        collapsable: false,
-        children: [
-          ['/governance/', 'Overview'], 
-          {
-            title: 'Vote',
-            children: [
-              ['/governance/vote/', 'Overview'],
-            ],
-          },
-        ],
-      },
-      {
         title: 'Products',
         collapsable: false,
         children: [
           ['/products/', 'Overview'], 
           {
-            title: 'MistSwap',
+            title: 'DogMoney',
             children: [
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
               ['/products/amm-exchange/yield-farming/', 'Yield Farming'],
-              ['/products/amm-exchange/the-mistbar/', 'MistBar'],
+              ['/products/amm-exchange/the-dogmoneybowl/', 'DogMoneyBowl'],
               ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
             ],
           },
-          {
-            title: 'Bridge',
-            children: [
-              ['/products/bridge/', 'Overview'],
-            ],
-          },
-          {
-            title: 'MistyLake',
-            children: [
-              ['/products/mistylake/', 'Overview'],
-            ],
-          },
-          {
-            title: 'Smart Safe',
-            children: [
-              ['/products/smartsafe/', 'Overview'],
-            ],
-          },
-          {
-            title: 'Sonar',
-            children: [
-              ['/products/sonar/', 'Overview'],
-            ],
-          },
         ],
-      },
-      {
-        title: 'API',
-        collapsable: false,
-        children: [
-          ['/api/', 'Overview'], 
-          {
-            title: 'Subgraphs',
-            children: [
-              {
-                title: 'Marker',
-                children: [
-                  ['/api/subgraphs/marker/entities/', 'Entities'], 
-                ]
-              },
-              {
-                title: 'Exchange',
-                children: [
-                  ['/api/subgraphs/exchange/entities/', 'Entities'], 
-                  ['/api/subgraphs/exchange/queries/', 'Queries'], 
-                ]
-              },
-              {
-                title: 'MistBar',
-                children: [
-                  ['/api/subgraphs/mistBar/entities/', 'Entities'], 
-                ]
-              },
-              {
-                title: 'MasterChef',
-                children: [
-                  ['/api/subgraphs/masterChef/entities/', 'Entities'], 
-                ]
-              }
-            ],
-          },
-        ]
       },
       {
         title: 'Ecosystem',
         collapsable: false,
         children: [ 
           ['/ecosystem/developers/', 'Developers'],
-          ['/ecosystem/branding/', 'Branding'],
           ['/ecosystem/token-listing/', 'Token Listing'],
         ],
       }
