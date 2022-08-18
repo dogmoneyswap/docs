@@ -100,7 +100,7 @@ module.exports = {
               ['/products/amm-exchange/', 'Overview'],
               ['/products/amm-exchange/liquidity-pools/', 'Liquidity Pools'],
               ['/products/amm-exchange/yield-farming/', 'Yield Farming'],
-              ['/products/amm-exchange/the-dogmoneybowl/', 'DogMoneyBowl'],
+              ['/products/amm-exchange/staking/', 'Staking'],
               ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
             ],
           },
