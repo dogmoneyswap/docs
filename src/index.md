@@ -35,7 +35,7 @@ footerWrap:
 
 # Introduction
 
-<https://app.dogmoney.dog/>
+<https://app.dogmoney.money/>
 
 ## What is DogMoney?
 
