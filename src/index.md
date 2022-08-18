@@ -43,7 +43,7 @@ DogMoney is a DogeChain exchange, and a suite of tools to help empower the indiv
 
 The following documentation details the functional and technical aspects of the ecosystem products.
 
-In order to partake in the DogMoney ecosystem, please join our discord <https://discord.gg/EKpGzWHRu4>.
+In order to partake in the DogMoney ecosystem, please join our discord <https://discord.gg/EKpGzWHRu4> or Telegram <https://t.me/dogmoneyofficial>.
 
 To interact with our products, please explore the links below:
 
@@ -52,3 +52,9 @@ Dog Money Exchange: <https://app.dogmoney.money/swap>
 Dog Money Yield Farms: <https://app.dogmoney.money/farm>
 
 Dog Money Staking (xDOGMONEY): <https://app.dogmoney.money/stake>
+
+## MistSwap users welcome!
+
+As part of our commitment to our users, we are enabling the redemption of MIST for DOGMONEY, coming straight from our dev reward!
+
+We are providing 1000-to-1 conversion of MIST SEP-20 tokens to DOGMONEY tokens. 100% of all collected MIST will be sent to xMIST holders at an unspecified date in the future. We hope this can help provide an easy way for people who have used MistSwap to try DogMoney on DogeChain. To start this process, please visit our [Telegram](https://t.me/dogmoneyofficial). This budget is funded solely with the dev reward and does not cause additional inflation of DOGMONEY.
