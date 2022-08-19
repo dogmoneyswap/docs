@@ -22,6 +22,4 @@ MasterChef is controlled by a 3-day Timelock, delaying all farm changes
 
 ### 0xGuard
 
-The core contracts are minimally changed from SushiSwap, 0xGuard has audited and verified this.
-
-[0xGuard Audit](/MistSwap-0xguard-audit.pdf)
+0xGuard audit in progress <https://twitter.com/0xGuard/status/1560164437906038785>
