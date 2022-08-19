@@ -19,4 +19,6 @@ No.
 
 #### Are there future usecases for DOGMONEY
 
-Yes. xDOGMONEY will be the only way to buy yield bearing NFTs which allow for magic themed governance. Additional protocols which are built with DogMoney dev rewards will also send portion of fees to xDOGMONEY holders.
+Yes. xDOGMONEY will be the only way to buy yield bearing NFTs which allow for themed governance. Additional protocols which are built with DogMoney dev rewards will also send portion of fees to xDOGMONEY holders.
+
+We also hope to launch a DOGMONEY credit card which will allow you to spend DOGE, wDOGE, and DOGMONEY anywhere IRL. The card would allow for a portion of the cash-back rewards to automatically be applied to charity on sale, so you can help the world every time you buy something with DOGMONEY.
