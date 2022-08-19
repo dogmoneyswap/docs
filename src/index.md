@@ -57,4 +57,4 @@ Dog Money Staking (xDOGMONEY): <https://app.dogmoney.money/stake>
 
 As part of our commitment to our users, we are enabling the redemption of MIST for DOGMONEY, coming straight from our dev reward!
 
-We are providing 1000-to-1 conversion of MIST SEP-20 tokens to DOGMONEY tokens. 100% of all collected MIST will be sent to xMIST holders at an unspecified date in the future. We hope this can help provide an easy way for people who have used MistSwap to try DogMoney on DogeChain. To start this process, please visit our [Telegram](https://t.me/dogmoneyofficial). This budget is funded solely with the dev reward and does not cause additional inflation of DOGMONEY.
+We are providing 1000-to-1 conversion of MIST SEP-20 tokens to DOGMONEY tokens. 100% of all collected MIST will be burnt. We hope this can help provide an easy way for people who have used MistSwap to try DogMoney on DogeChain. To start this process, please visit our [Telegram](https://t.me/dogmoneyofficial). This budget is funded solely with the dev reward and does not cause additional inflation of DOGMONEY.
