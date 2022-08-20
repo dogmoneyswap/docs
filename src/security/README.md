@@ -14,7 +14,7 @@ The migrator function has been disabled on the contracts.
 
 ### Timelock
 
-MasterChef is controlled by a 3-day Timelock, delaying all farm changes
+MasterChef will be controlled by a 3-day Timelock soon, delaying all farm changes
 
 [Timelock](https://github.com/dogmoneyswap/dogmoneyswap/blob/master/deployments/dogechain/Timelock.json)
 
