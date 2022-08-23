@@ -32,4 +32,4 @@ MasterChef will be controlled by a 3-day Timelock soon, delaying all farm change
 
 ### 0xGuard
 
-[<img src="https://thumb.tildacdn.com/tild3663-3330-4731-b932-623235346531/-/resize/250x/-/format/webp/0xGuard_Badge_250x70.png">](./DogMoneySwap_final-audit-report.pdf)
+[<img src="https://thumb.tildacdn.com/tild3663-3330-4731-b932-623235346531/-/resize/250x/-/format/webp/0xGuard_Badge_250x70.png">](/DogMoneySwap_final-audit-report.pdf)
