@@ -104,6 +104,12 @@ module.exports = {
               ['/products/amm-exchange/farm-allocation-algorithm/', 'Farm Allocation Algorithm'],
             ],
           },
+          {
+            title: 'Doge Safe',
+            children: [
+              ['/products/doge-safe/', 'Overview'],
+            ],
+          },
         ],
       },
       {
